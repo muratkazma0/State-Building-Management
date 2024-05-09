@@ -4,4 +4,4 @@
 
 
 
-![img](https://github.com/muratkazma0/State-Building-Security-and-Performance-Management/assets/154098001/c9c11e9f-f011-4abc-a118-5bfa47d16bd1)
+![img](./img.png)
